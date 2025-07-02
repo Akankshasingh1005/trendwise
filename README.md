@@ -1,7 +1,7 @@
 
 ## Project info
 
-**URL**: https://trendwise.lovable.app
+**URL**: https://trendwiseblog.vercel.app/
 
 ## What technologies are used for this project?
 
